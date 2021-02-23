@@ -25,3 +25,4 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 # N-1996_E-commerce
 #Runing_frontend
 #running_frontend
+#running_frontend
